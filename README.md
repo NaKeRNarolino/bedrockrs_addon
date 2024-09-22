@@ -1,0 +1,1 @@
+# bedrockrs_addon - Addon deserialization for bedrockrs
